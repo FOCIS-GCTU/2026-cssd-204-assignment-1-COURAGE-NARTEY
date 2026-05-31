@@ -12,7 +12,6 @@
 
 
 def main():
-  
     # Print initials CTN in small letters then in large stylized block letters,
     # each letter 12 characters wide by 10 characters high, followed by
     # a 2x2 asterisk period block. Three period columns separate each element.
